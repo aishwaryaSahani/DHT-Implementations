@@ -20,7 +20,7 @@ open source toolkit for designing scalable, resilient systems that span processo
 - After installation, to enable Cassandra, set the value of the flag *enableCassandra* to *true* in the application.conf file.
 
 #### Run 
-1. Clone the project - ```git clone https://ojhagautam97@bitbucket.org/cs441-fall2020/group_6.git```
+1. Clone the project - ```git clone ```https://github.com/aishwaryaSahani/DHT-Implementations.git
 2. Navigate to the project folder - cd group_6/
 3. Run the simulations with the command : ```sbt clean compile run```
 4. Run the test cases using the command : ```sbt clean compile test```
